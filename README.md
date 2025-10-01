@@ -1,18 +1,12 @@
-\# 🔐 ESP32 BLE Keyboard  
+# 🔐 ESP32 BLE Keyboard
 
+Turn your **ESP32** into a **Bluetooth Low Energy (BLE) Keyboard**🖱️⌨️.
 
-
-Turn your \*\*ESP32\*\* into a \*\*Bluetooth Low Energy (BLE) Keyboard\*\* 🖱️⌨️.  
-
-This project uses the \[ESP32 BLE Keyboard library](https://github.com/T-vK/ESP32-BLE-Keyboard) to emulate a standard wireless keyboard that works with \*\*PCs, laptops, tablets, and smartphones\*\*.  
-
-
+This project uses the [ESP32 BLE Keyboard library](https://github.com/T-vK/ESP32-BLE-Keyboard) to emulate a standard wireless keyboard that works with **PCs, laptops, tablets, and smartphones.**
 
 ---
 
-
-
-\## ✨ Features
+## ✨ Features
 
 ✅ Acts as a Bluetooth HID keyboard  
 
@@ -28,15 +22,15 @@ This project uses the \[ESP32 BLE Keyboard library](https://github.com/T-vK/ESP3
 
 
 
-\## 📦 Requirements
+## 📦 Requirements
 
-\- ESP32 development board (e.g., ESP32 DevKit V1, NodeMCU-32S, etc.)  
+- ESP32 development board (e.g., ESP32 DevKit V1, NodeMCU-32S, etc.)  
 
-\- \[Arduino IDE](https://www.arduino.cc/en/software) installed  
+- \[Arduino IDE](https://www.arduino.cc/en/software) installed  
 
-\- ESP32 board package installed in Arduino IDE  
+- ESP32 board package installed in Arduino IDE  
 
-\- \[ESP32 BLE Keyboard library](https://github.com/T-vK/ESP32-BLE-Keyboard)  
+- \[ESP32 BLE Keyboard library](https://github.com/T-vK/ESP32-BLE-Keyboard)  
 
 
 
@@ -44,11 +38,11 @@ This project uses the \[ESP32 BLE Keyboard library](https://github.com/T-vK/ESP3
 
 
 
-\## ⚡ Getting Started
+## ⚡ Getting Started
 
 
 
-\### 1️⃣ Clone this Repository
+### 1️⃣ Clone this Repository
 
 ```bash
 
