@@ -10,7 +10,7 @@ This project uses the [ESP32 BLE Keyboard library](https://github.com/T-vK/ESP32
 
 ✅ Acts as a Bluetooth HID keyboard  
 
-✅ Works on \*\*Windows, Linux, macOS, Android, iOS\*\*  
+✅ Works on **Windows, Linux, macOS, Android, iOS**  
 
 ✅ Lightweight and easy to customize  
 
@@ -26,11 +26,11 @@ This project uses the [ESP32 BLE Keyboard library](https://github.com/T-vK/ESP32
 
 - ESP32 development board (e.g., ESP32 DevKit V1, NodeMCU-32S, etc.)  
 
-- \[Arduino IDE](https://www.arduino.cc/en/software) installed  
+- [Arduino IDE](https://www.arduino.cc/en/software) installed  
 
 - ESP32 board package installed in Arduino IDE  
 
-- \[ESP32 BLE Keyboard library](https://github.com/T-vK/ESP32-BLE-Keyboard)  
+- [ESP32 BLE Keyboard library](https://github.com/T-vK/ESP32-BLE-Keyboard)  
 
 
 
