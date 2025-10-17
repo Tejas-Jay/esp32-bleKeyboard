@@ -46,7 +46,7 @@ This project uses the [ESP32 BLE Keyboard library](https://github.com/T-vK/ESP32
 
 ```bash
 
-git clone https://github.com/YOUR-USERNAME/esp32-ble-keyboard.git
+git clone https://github.com/Tejas-Jay/esp32-ble-keyboard.git
 
 cd esp32-ble-keyboard
 
